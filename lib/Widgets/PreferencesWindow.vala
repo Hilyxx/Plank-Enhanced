@@ -72,8 +72,8 @@ namespace Plank
 		Gtk.Switch sw_show_unpinned;
 		[GtkChild]
 		Gtk.Switch sw_lock_items;
-		Gtk.Switch sw_tooltips_enabled;
 		[GtkChild]
+		Gtk.Switch sw_tooltips_enabled;
 		[GtkChild]
 		Gtk.Switch sw_pressure_reveal;
 		[GtkChild]
